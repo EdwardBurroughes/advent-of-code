@@ -1,0 +1,12 @@
+*.js
+
+# bin
+node_modules
+
+# editors
+.idea
+*.iml
+*.swp
+
+*.txt
+/build
